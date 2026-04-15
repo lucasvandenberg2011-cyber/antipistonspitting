@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.antipistonspitting.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PistonBaseBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
